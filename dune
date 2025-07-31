@@ -1,0 +1,7 @@
+(executable
+ (public_name logs-example)
+ (name main)
+ (libraries 
+   logs
+   logs.fmt
+   logs.threaded))

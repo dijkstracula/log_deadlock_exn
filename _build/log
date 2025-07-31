@@ -1,0 +1,16 @@
+# dune exec ./main.exe
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/ntaylor/.cache/dune/db
+# Workspace root: /private/tmp/log_deadlock_exn
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/ntaylor/.opam/5.3.0/bin/ocamlc.opt -config > /var/folders/hc/_prkpkl95ps4r357jk8lb0wr0000gp/T/dune_5c5257_output
