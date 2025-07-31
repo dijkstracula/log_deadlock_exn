@@ -1,7 +1,0 @@
-lib: [
-  "_build/install/default/lib/logs-example/META"
-  "_build/install/default/lib/logs-example/dune-package"
-]
-bin: [
-  "_build/install/default/bin/logs-example"
-]
